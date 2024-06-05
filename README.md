@@ -13,3 +13,5 @@
   5. Reporting time for 8 minutes (10%)
   6. Creative ideas: Clarity、Intention and Core Idea (10%)
   7. Creativity and Originality: design, style.... (20%)
+* Final Model: "Longhouse.iam"
+* Link: https://github.com/William-HuangWY/Inventor_Project.git
